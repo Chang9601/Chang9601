@@ -1,4 +1,26 @@
-### Hi there 👋
+## 👋 Hi! I'm Chang9601 
+
+### About Me 👽
+```javascript
+const Chang9601 = {
+  languages: ["JavaScript", "TypeScript", "Java", "C"],
+  technologies: {
+    framework: ["Express.js", "Nest.js"],
+    devops: ["AWS(EC2/RDS/VPC", "Docker", "NGINX", "GitHub Actions"],
+    databases: ["MySQL", "MongoDB"],
+    tools: ["Git", "GitHub"],
+  },
+  interests: ["Computer Network", "AWS(Route53/ECS)", "Redis"],
+  blog: "https://whooa27.blogspot.com/",
+  email: "changsup96@gmail.com",
+};
+```
+
+### GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chang9601&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chang9601&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Chang9601&color=grey&label=visitors)
 
 <!--
 **Chang9601/Chang9601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
