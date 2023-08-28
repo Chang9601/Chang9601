@@ -6,7 +6,7 @@ const Chang9601 = {
   languages: ["JavaScript", "TypeScript", "Java", "C"],
   technologies: {
     frameworks: ["Express.js", "Nest.js"],
-    devops: ["AWS(EC2/RDS/VPC", "Docker", "NGINX", "GitHub Actions"],
+    devops: ["AWS(EC2/RDS/VPC)", "Docker", "NGINX", "GitHub Actions"],
     databases: ["MySQL", "MongoDB"],
     tools: ["Git", "GitHub"],
   },
