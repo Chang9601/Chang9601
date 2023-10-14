@@ -10,7 +10,7 @@ const Chang9601 = {
     databases: ["MySQL", "MongoDB"],
     tools: ["Git", "GitHub"],
   },
-  interests: ["Computer Network", "AWS(Route53/ECS/Serverless)", "Redis", "NGINX"],
+  interests: ["Computer Network", "AWS(Route53/ECS/S3/Serverless)", "Redis", "NGINX"],
   blog: "https://whooa27.blogspot.com/",
   email: "changsup96@gmail.com",
 };
