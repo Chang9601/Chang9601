@@ -6,11 +6,12 @@ const Chang9601 = {
   languages: ["JavaScript", "TypeScript", "Java", "C"],
   technologies: {
     frameworks: ["ExpressJS", "NestJS"],
-    devops: ["AWS(EC2/RDS/VPC/ELB)", "Docker", "GitHub Actions"],
+    devops: ["AWS(EC2/RDS/VPC/ELB/ECS/Route 53)", "Docker", "GitHub Actions"],
     databases: ["MySQL", "MongoDB"],
+    caches: ["Redis"],
     tools: ["Git", "GitHub"],
   },
-  interests: ["Computer Network", "AWS(Route53/ECS/S3/Serverless)", "Redis", "NGINX"],
+  interests: ["Computer Network", "AWS(S3/Serverless)", "NGINX"],
   blog: "https://whooa27.blogspot.com/",
   email: "changsup96@gmail.com",
 };
