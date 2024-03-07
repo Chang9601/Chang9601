@@ -3,13 +3,6 @@
 ### About Me 👽
 ```javascript
 const Chang9601 = {
-  languages: ["JavaScript", "TypeScript", "Java", "C"],
-  frameworks: ["ExpressJS", "NestJS"],
-  devops: ["AWS(EC2/RDS/VPC/ELB/ECS/Route 53)", "Docker", "GitHub Actions"],
-  databases: ["MySQL", "MongoDB"],
-  caches: ["Redis"],
-  tools: ["Git", "GitHub"],
-  interests: ["Computer Network", "Spring", "AWS(S3/Serverless)", "K8S", "NGINX"],
   blog: "https://whooa27.blogspot.com/",
   email: "changsup96@gmail.com",
 };
